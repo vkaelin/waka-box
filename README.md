@@ -24,7 +24,7 @@
 1. Fork this repo
 1. Edit the [environment variable](https://github.com/matchai/waka-box/blob/master/.github/workflows/schedule.yml#L13-L15) in `.github/workflows/schedule.yml`:
 
-   - **GIST_ID:** The ID portion from your gist url: `https://gist.github.com/matchai/`**`6d5f84419863089a167387da62dd7081`**.
+   - **GIST_ID:** The ID portion from your gist url: `https://gist.github.com/vkaelin/`**`36e1032cb0ef0ba115a0f01640e6b7fd`**.
 
 1. Go to the repo **Settings > Secrets**
 1. Add the following environment variables:
